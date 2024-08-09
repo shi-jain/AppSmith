@@ -1,0 +1,12 @@
+{
+    "data": {
+        "Name": "{{Input1.value}}",
+        "Email": "shikha.s@gopherslab.com",
+        "Location": "ll York",
+        "Designation": "Engineer",
+        "ContactName": "sh",
+        "Status": true,
+        "Currency": "USD",
+        "Notes": "Testing"
+    }
+}

@@ -1,0 +1,1 @@
+SELECT COUNT(*) from p.add_on_features where docusign_id ilike '%{{Table1.searchText}}%';

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "Name": "{{Input1.text}}",
+        "Email": "{{Input3.text}}",
+        "Location": "{{Input5.text}}",
+        "Designation": "{{Input4.text}}",
+        "ContactName": "{{Input2.text}}",
+        "Status": true,
+        "Currency": "{{Input6.text}}",
+        "Notes": "{{Input7.text}}"
+    }
+}

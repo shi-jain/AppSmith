@@ -1,0 +1,10 @@
+"data": {
+        "Name": "Sahil",
+        "Email": "gaurav.s@gopherslab.com",
+        "Location": "New York",
+        "Designation": "Engineer",
+        "ContactName": "GRV",
+        "Status": true,
+        "Currency": "USD",
+        "Notes": "New entry"
+    }

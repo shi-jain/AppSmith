@@ -1,0 +1,54 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#C7F3F0",
+  "evaluationVersion": 2,
+  "icon": "bird",
+  "pages": [
+    {
+      "id": "Client",
+      "isDefault": true
+    },
+    {
+      "id": "Add Client",
+      "isDefault": false
+    },
+    {
+      "id": "Edit Client",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}
